@@ -8,8 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: |2
-       Em mundo onde a maiorias são homens fracos e comuns
+    text: |
+      Em mundo onde a maiorias são homens fracos e comuns.
     actions:
       - label: Get started
         altText: ''
