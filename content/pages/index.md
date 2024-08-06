@@ -585,7 +585,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
     elementId: null
-    variant: tabs-nav
+    variant: dots-nav
     colors: bg-light-fg-dark
     styles:
       self:
