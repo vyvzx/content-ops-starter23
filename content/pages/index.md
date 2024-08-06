@@ -1096,7 +1096,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/52b743e90564a537b0183964eca6f5f7.jpg
           altText: Pricing plan 1
         actions:
           - type: Button
