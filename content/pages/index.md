@@ -630,7 +630,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/Adobe_Express_20240804_0108340_1.png
+          url: /images/Adobe_Express_20240804_0111020_1.png
           altText: Business consulting
           elementId: ''
           styles:
