@@ -602,7 +602,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/Adobe_Express_20240804_0113580_1.png
+          url: /images/b913b5346ff378dc892b7e1f817a2f74 (1).jpg
           altText: Featured item
           styles:
             self:
