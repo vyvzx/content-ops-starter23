@@ -414,7 +414,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/Adobe_Express_20240804_0113580_1.png
+          url: /images/IMG_20240804_003430_022.jpg
           altText: Maria Walters
           styles:
             self:
