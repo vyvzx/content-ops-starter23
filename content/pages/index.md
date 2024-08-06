@@ -746,7 +746,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/Adobe_Express_20240804_0110400_1.png
+          url: /images/Spartan Warrior Unyielding Valor.jpeg
           altText: Business consulting
           elementId: ''
           styles:
