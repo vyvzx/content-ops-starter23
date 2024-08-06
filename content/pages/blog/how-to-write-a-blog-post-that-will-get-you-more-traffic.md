@@ -8,7 +8,7 @@ excerpt: >-
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/Adobe_Express_20240806_0627500_1.png
   altText: Thumbnail
   type: ImageBlock
   styles:
