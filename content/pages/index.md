@@ -586,7 +586,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/2a816c9bc29f5b8a797fddc6130b08f5.jpg
+      url: /images/2f3f137ee20ff10bed2ee996015c5f9d.jpg
   - type: CarouselSection
     items:
       - type: FeaturedItem
