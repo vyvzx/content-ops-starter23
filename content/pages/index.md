@@ -30,7 +30,6 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Adobe_Express_20240727_0509110_1~2.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -51,7 +50,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Beneficios
       color: text-dark
       styles:
         self:
@@ -580,6 +579,13 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -790,6 +796,35 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: Featured posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - >-
+        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
+      - content/pages/blog/five-tips-for-starting-a-startup.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: big-list
+    colors: bg-light-fg-dark
+    hoverEffect: thin-underline
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
   - title:
       text: List of features here
       color: text-primary
