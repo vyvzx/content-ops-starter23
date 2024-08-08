@@ -1233,7 +1233,7 @@ sections:
       - url: /images/1.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/55.jpg
+      - url: /images/1.png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/1.png
