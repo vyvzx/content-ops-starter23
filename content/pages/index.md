@@ -1230,7 +1230,7 @@ sections:
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
-      - url: /images/ccc.png
+      - url: /images/55.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/ggg.jpg
