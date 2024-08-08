@@ -1236,7 +1236,7 @@ sections:
       - url: /images/Adobe_Express_20240808_0445410_1~2 (1).png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/snapedit_1723117465328.jpeg
+      - url: /images/ccc.png
         altText: Rangle logo
         type: ImageBlock
         styles:
