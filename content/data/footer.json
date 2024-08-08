@@ -3,7 +3,7 @@
     "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "\n\n",
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-light-fg-dark",
     "type": "Footer",
     "styles": {
         "self": {
