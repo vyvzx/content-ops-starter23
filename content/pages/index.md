@@ -1253,6 +1253,38 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+  - type: ImageGallerySection
+    subtitle: você depois
+    images:
+      - type: ImageBlock
+        altText: Empathy logo
+      - type: ImageBlock
+        altText: Vise logo
+      - type: ImageBlock
+        url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
+        altText: Telus logo
+      - type: ImageBlock
+        url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
+        altText: Contentful logo
+      - type: ImageBlock
+        url: /images/Adobe_Express_20240808_0445410_1~2 (1).png
+        altText: Sanity logo
+      - type: ImageBlock
+        url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
+        altText: Rangle logo
+        styles:
+          self:
+            padding:
+              - pl-1
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+        padding:
+          - pt-1
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
