@@ -165,37 +165,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -214,7 +183,7 @@ sections:
           - pr-16
         justifyContent: center
     type: FeaturedPostsSection
-    hoverEffect: move-up
+    hoverEffect: shadow-plus-move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -397,6 +366,426 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Social Media Management
+        tagline: Feature 1
+        subtitle: Increase your reach
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/IMG_20240804_003430_022.jpg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/Adobe_Express_20240804_0108340_1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/Adobe_Express_20240804_0109010_1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/Adobe_Express_20240804_0110160_1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/Adobe_Express_20240804_0109500_1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/Adobe_Express_20240804_0110400_1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: 500k
+        subtitle: Numbers Done
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Social Media Management
+        tagline: Feature 1
+        subtitle: Increase your reach
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/IMG_20240804_003430_022.jpg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/Adobe_Express_20240804_0108340_1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/Adobe_Express_20240804_0109010_1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/Adobe_Express_20240804_0110160_1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/Adobe_Express_20240804_0109500_1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/Adobe_Express_20240804_0110400_1.png
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: 500k
+        subtitle: Numbers Done
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Placeholder text
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -816,7 +1205,7 @@ sections:
     elementId: ''
     variant: big-list
     colors: bg-light-fg-dark
-    hoverEffect: thin-underline
+    hoverEffect: shadow-plus-move-up
     styles:
       self:
         padding:
@@ -825,6 +1214,172 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+  - subtitle: você depois
+    images:
+      - altText: Empathy logo
+        type: ImageBlock
+      - altText: Vise logo
+        type: ImageBlock
+      - url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/Adobe_Express_20240808_0445410_1~2 (1).png
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
+        altText: Rangle logo
+        type: ImageBlock
+        styles:
+          self:
+            padding:
+              - pl-1
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+        padding:
+          - pt-1
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        altText: Empathy logo
+      - type: ImageBlock
+        altText: Vise logo
+      - type: ImageBlock
+        url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
+        altText: Telus logo
+      - type: ImageBlock
+        url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
+        altText: Contentful logo
+      - type: ImageBlock
+        url: /images/Adobe_Express_20240808_0445410_1~2 (1).png
+        altText: Sanity logo
+      - type: ImageBlock
+        url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
+        altText: Rangle logo
+        styles:
+          self:
+            padding:
+              - pl-1
+    motion: move-to-right
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+        padding:
+          - pt-1
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: List of features here
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    subtitle: Featured items section subtitle
+    items:
+      - type: FeaturedItem
+        title: Feature Item One
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Feature Item Two
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first awesome Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Feature Item Three
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Learn from the tutorial and build your first awesome Netlify site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    variant: two-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -835,8 +1390,8 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Cotton Knit Throws
-        subtitle: $ 44.99 – $ 90
+        title: ''
+        subtitle: ''
         image:
           type: ImageBlock
           altText: hhth
@@ -861,6 +1416,14 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/098ef19e78a3e7e94d996af51250a1f0.jpg
   - title:
       text: List of features here
       color: text-primary
