@@ -819,6 +819,10 @@ sections:
       - url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
         altText: Rangle logo
         type: ImageBlock
+        styles:
+          self:
+            padding:
+              - pl-1
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
