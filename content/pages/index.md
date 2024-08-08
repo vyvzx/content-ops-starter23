@@ -825,6 +825,42 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Items on sale
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    items:
+      - type: FeaturedItem
+        title: Cotton Knit Throws
+        subtitle: $ 44.99 – $ 90
+        image:
+          type: ImageBlock
+          altText: hhth
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+          url: /images/Adobe_Express_20240807_1705370_1.png
+        actions: []
+        colors: bg-light-fg-dark
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: flex-start
+      subtitle:
+        textAlign: center
   - title:
       text: List of features here
       color: text-primary
