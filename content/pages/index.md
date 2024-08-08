@@ -803,8 +803,7 @@ sections:
       opacity: 100
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/Adobe_Express_20240808_0445410_1~2.png
-        altText: Empathy logo
+      - altText: Empathy logo
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
