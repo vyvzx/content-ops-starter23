@@ -1225,25 +1225,25 @@ sections:
     images:
       - altText: Telus logo
         type: ImageBlock
-        url: /images/55.jpg
+        url: /images/1.png
       - altText: Empathy logo
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
-      - url: /images/55.jpg
+      - url: /images/1.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/55.jpg
+      - url: /images/1.png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/ccc.png
+      - url: /images/1.png
         altText: Rangle logo
         type: ImageBlock
         styles:
           self:
             padding:
               - pl-1
-    motion: static
+    motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
