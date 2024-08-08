@@ -938,7 +938,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: $ 44.99 – $ 90
+        subtitle: ''
         image:
           type: ImageBlock
           altText: hhth
