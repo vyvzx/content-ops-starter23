@@ -816,7 +816,7 @@ sections:
       - url: /images/Adobe_Express_20240808_0445410_1~2 (1).png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
         altText: Rangle logo
         type: ImageBlock
     motion: static
