@@ -1254,7 +1254,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - type: ImageGallerySection
-    subtitle: você depois
+    subtitle: ''
     images:
       - type: ImageBlock
         altText: Empathy logo
