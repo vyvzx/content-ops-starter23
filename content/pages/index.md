@@ -801,7 +801,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-  - subtitle: Award winning enterprises trust us
+  - subtitle: você depois
     images:
       - altText: Empathy logo
         type: ImageBlock
