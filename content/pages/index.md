@@ -809,8 +809,7 @@ sections:
       - url: /images/Adobe_Express_20240808_0445410_1.png
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/Adobe_Express_20240808_0434280_1~2.png
-        altText: Vise logo
+      - altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
