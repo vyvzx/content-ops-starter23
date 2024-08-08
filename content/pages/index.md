@@ -1243,7 +1243,7 @@ sections:
           self:
             padding:
               - pl-1
-    motion: move-to-right
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:
