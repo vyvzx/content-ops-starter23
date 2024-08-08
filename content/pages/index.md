@@ -1223,27 +1223,27 @@ sections:
       opacity: 100
   - subtitle: você depois
     images:
+      - altText: Telus logo
+        type: ImageBlock
+        url: /images/55.jpg
       - altText: Empathy logo
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
-      - url: /images/Adobe_Express_202408j.png
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/Adobe_Express_20240808_0445410_1~2 (3) (1).png
+      - url: /images/55.jpg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/Adobe_Express_20240808_0445410_1~2 (1).png
+      - url: /images/55.jpg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
+      - url: /images/ccc.png
         altText: Rangle logo
         type: ImageBlock
         styles:
           self:
             padding:
               - pl-1
-    motion: move-to-left
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:
@@ -1261,7 +1261,7 @@ sections:
       - type: ImageBlock
         altText: Vise logo
       - type: ImageBlock
-        url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
+        url: /images/jj.png
         altText: Telus logo
       - type: ImageBlock
         url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
@@ -1276,7 +1276,7 @@ sections:
           self:
             padding:
               - pl-1
-    motion: move-to-right
+    motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
