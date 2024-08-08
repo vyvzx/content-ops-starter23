@@ -839,7 +839,7 @@ sections:
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
-          altText: Cotton Knit Throws
+          altText: hhth
           elementId: ''
           styles:
             self:
