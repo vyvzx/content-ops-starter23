@@ -816,7 +816,7 @@ sections:
     elementId: ''
     variant: big-list
     colors: bg-light-fg-dark
-    hoverEffect: thin-underline
+    hoverEffect: thick-underline
     styles:
       self:
         padding:
