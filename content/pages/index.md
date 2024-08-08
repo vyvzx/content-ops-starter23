@@ -868,6 +868,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/Adobe_Express_20240807_1705370_1.png
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
