@@ -1236,7 +1236,7 @@ sections:
       - url: /images/1.png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/1.png
+      - url: /images/ohvf1ul7.png
         altText: Rangle logo
         type: ImageBlock
         styles:
