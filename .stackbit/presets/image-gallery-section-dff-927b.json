@@ -1,0 +1,100 @@
+{
+    "model": "ImageGallerySection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "dff",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "ffr"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": null,
+                "subtitle": "você depois",
+                "images": [
+                    {
+                        "$$type": "ImageBlock",
+                        "url": null,
+                        "altText": "Empathy logo",
+                        "elementId": null,
+                        "styles": null
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": null,
+                        "altText": "Vise logo",
+                        "elementId": null,
+                        "styles": null
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/Adobe_Express_20240808_0445410_1~2 (3).png",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Telus logo",
+                        "elementId": null,
+                        "styles": null
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/Adobe_Express_20240808_0445410_1~2 (3).png",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Contentful logo",
+                        "elementId": null,
+                        "styles": null
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/Adobe_Express_20240808_0445410_1~2 (1).png",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Sanity logo",
+                        "elementId": null,
+                        "styles": null
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/Adobe_Express_20240808_0445410_1~2 (3).png",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Rangle logo",
+                        "elementId": null,
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pl-1"
+                                ]
+                            }
+                        }
+                    }
+                ],
+                "badge": null,
+                "elementId": null,
+                "motion": "move-to-left",
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "justifyContent": "center",
+                        "padding": [
+                            "pt-1"
+                        ]
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/image-gallery-section-dff-927b.png"
+        }
+    ]
+}
