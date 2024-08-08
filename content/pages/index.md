@@ -810,7 +810,7 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/Adobe_Express_20240808_0445410_1~2 (1).png
