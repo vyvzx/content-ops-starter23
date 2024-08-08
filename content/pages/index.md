@@ -1253,6 +1253,13 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - type: ImageGallerySection
     subtitle: ''
     images:
