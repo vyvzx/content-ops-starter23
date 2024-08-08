@@ -1230,7 +1230,7 @@ sections:
       - url: /images/Adobe_Express_202408j.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
+      - url: /images/a4a10011-a3b8-4055-b265-860a36cacab3.jpeg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/Adobe_Express_20240808_0445410_1~2 (1).png
