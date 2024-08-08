@@ -1227,10 +1227,10 @@ sections:
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
-      - url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
+      - url: /images/Adobe_Express_202408j.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/Adobe_Express_20240808_0445410_1~2 (3).png
+      - url: /images/Adobe_Express_20240808_0445410_1~2 (3) (1).png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/Adobe_Express_20240808_0445410_1~2 (1).png
