@@ -1225,7 +1225,7 @@ sections:
     images:
       - altText: Telus logo
         type: ImageBlock
-        url: /images/55.jpg
+        url: /images/1.png
       - altText: Empathy logo
         type: ImageBlock
       - altText: Vise logo
