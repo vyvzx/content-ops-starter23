@@ -963,6 +963,13 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - title:
       text: List of features here
       color: text-primary
