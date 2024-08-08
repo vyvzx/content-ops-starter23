@@ -817,7 +817,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/Adobe_Express_20240808_0445410_1~2 (1).png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
