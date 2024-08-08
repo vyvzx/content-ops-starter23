@@ -847,18 +847,6 @@ sections:
           url: /images/Adobe_Express_20240807_1705370_1.png
         actions: []
         colors: bg-light-fg-dark
-      - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
-        subtitle: $117
-        image:
-          type: ImageBlock
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
     actions: []
     elementId: ''
     variant: three-col-grid
