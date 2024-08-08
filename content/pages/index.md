@@ -1233,7 +1233,7 @@ sections:
       - url: /images/ccc.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/ccc.png
+      - url: /images/snapedit_1723117465328.jpeg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/ccc.png
