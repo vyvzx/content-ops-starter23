@@ -1225,7 +1225,7 @@ sections:
     images:
       - altText: Telus logo
         type: ImageBlock
-        url: /images/Adobe_Express_20240808_0445410_1~2.png
+        url: /images/Adobe_Express_20240808_0445410_1~2 (3) (1) (3).png
       - altText: Empathy logo
         type: ImageBlock
       - altText: Vise logo
