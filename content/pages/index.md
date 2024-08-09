@@ -1234,7 +1234,7 @@ sections:
         altText: Contentful logo
         type: ImageBlock
       - url: /images/1.png
-        altText: Sanity logo
+        altText: rtg
         type: ImageBlock
       - url: /images/1.png
         altText: Rangle logo
