@@ -1249,7 +1249,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-2
+          - pt-0
       subtitle:
         textAlign: center
     type: ImageGallerySection
