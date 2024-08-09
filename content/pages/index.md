@@ -1230,7 +1230,7 @@ sections:
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
-      - url: /images/1.png
+      - url: /images/dff.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/1.png
