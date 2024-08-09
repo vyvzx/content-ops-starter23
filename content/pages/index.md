@@ -1252,7 +1252,7 @@ sections:
           - pt-0
           - pr-1
           - pl-1
-          - pb-1
+          - pb-0
       subtitle:
         textAlign: center
     type: ImageGallerySection
