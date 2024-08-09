@@ -1244,7 +1244,7 @@ sections:
             padding:
               - pl-1
     motion: move-to-left
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         justifyContent: center
