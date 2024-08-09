@@ -1254,7 +1254,10 @@ sections:
           - pl-0
           - pb-0
         margin:
-          - mt-1
+          - mt-2
+          - ml-2
+          - mb-2
+          - mr-2
       subtitle:
         textAlign: center
     type: ImageGallerySection
