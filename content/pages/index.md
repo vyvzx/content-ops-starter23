@@ -1251,6 +1251,7 @@ sections:
         padding:
           - pt-0
           - pr-1
+          - pl-1
       subtitle:
         textAlign: center
     type: ImageGallerySection
