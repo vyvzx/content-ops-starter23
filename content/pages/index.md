@@ -1249,10 +1249,10 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-36
-          - pr-36
-          - pl-36
-          - pb-36
+          - pt-0
+          - pr-0
+          - pl-0
+          - pb-0
         margin:
           - mt-1
       subtitle:
