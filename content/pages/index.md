@@ -1230,13 +1230,13 @@ sections:
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
-      - url: /images/1.png
+      - url: /images/dff.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/1.png
-        altText: Sanity logo
+        altText: ''
         type: ImageBlock
-      - url: /images/ohvf1ul7.png
+      - url: /images/1.png
         altText: Rangle logo
         type: ImageBlock
         styles:
@@ -1249,7 +1249,15 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-1
+          - pt-0
+          - pr-0
+          - pl-0
+          - pb-0
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
       subtitle:
         textAlign: center
     type: ImageGallerySection
